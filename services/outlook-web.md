@@ -6,6 +6,7 @@ There is no official documentation.
 ## Basic URL
 `https://outlook.live.com/calendar/0/deeplink/compose`
 `https://outlook.office.com/calendar/0/deeplink/compose` (for Office 365)
+`https://outlook.office365.com/?path=/calendar/action/compose&rru=addevent&startdt=2023-08-12T04:00:00Z&enddt=2023-08-13T05:00:00Z&subject=Test+Event&body=Friday%2C%20Aug%2011%202023%20at%2023%3A00%20CDT%0A%0AThe%20Dashboard%20used%20for%20various%20form%20systems%20will%20be%20going%20offline%20for%20maintenance%20for%201%20day&location=https%3A%2F%2Fdashboard.test.com&allday=0` (for EXO O365)
 
 [Add a test event](https://outlook.live.com/calendar/0/deeplink/compose?path=/calendar/action/compose&rru=addevent&startdt=2020-12-31T19:30:00Z&enddt=2020-12-31T22:30:00Z&subject=Birthday&body=With%20clowns%20and%20stuff&location=North%20Pole)
 
